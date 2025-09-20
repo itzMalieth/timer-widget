@@ -22,6 +22,6 @@ The countdown date & time are stored in `config.json` for easy editing:
 
 ```json
 {
-  "exam_date": "2025-10-01",
-  "exam_time": "09:00:00"
+  "exam_date": "2026-10-01 09:00:00"
 }
+
